@@ -1,0 +1,14 @@
+6 figure grid references https://en.wikipedia.org/wiki/List_of_Wainwrights 
+eg. Scafell - NY215072.
+First two letters are location, the squares are as follows:
+NY
+SD
+NY directly north of SD
+Easting - 215
+Northing 072
+Squares are 100 x 100 km, so
+215 - 21,500m east
+072 - 7,200m north
+So euclidean distance between first 3 and second three is in terms of 100m.
+
+Task - scrape this data into python, turn into coordinates, plot.
